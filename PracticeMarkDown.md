@@ -50,7 +50,7 @@ As Sam said,
 
 Examples of code:
 
-Single ine code: 
+Single line code: 
 
 `int myVar = 0;`
 
