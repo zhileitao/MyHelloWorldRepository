@@ -37,7 +37,7 @@ This is illustration of how to display impage.
 
 ![microsoft logo] (https://careers.microsoft.com/content/images/header_microsoft_logo.png)
 
-![certified copy of sam] (certify_copy_Sam.jpg)
+![certified copy of sam] (images/3GMSC_Sustaining_team_Logo.gif)
 
 http://github.com - automatic!
 
